@@ -11,4 +11,6 @@ To make our life easier, I’m trying to make interactive authentication with Az
 
 ![diagram1](https://github.com/easonlai/Databricks_ODBC_Connection_to_Azure_SQL_DB_with_Azure_AD_User_Access_Token/blob/main/git-images/diagram1.PNG)
 
+All data in this code repository is coming from [classic dataset of diabetes classification](https://raw.githubusercontent.com/jbrownlee/Datasets/master/pima-indians-diabetes.data.csv).
+
 Enjoy!
